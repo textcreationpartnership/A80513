@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of a paper presented to the Parliament and read the 27th. of the fourth moneth, 1659. Subscribed by more than fifteen thousand hands. Thus directed: to the Parliament of England, from many thousand of the free born people of this Common-Wealth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80513</idno>
+            <idno type="STC">Wing C6185</idno>
+            <idno type="STC">Thomason E988_24</idno>
+            <idno type="STC">ESTC R208130</idno>
+            <idno type="EEBO-CITATION">99867118</idno>
+            <idno type="PROQUEST">99867118</idno>
+            <idno type="VID">168640</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168640)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of a paper presented to the Parliament and read the 27th. of the fourth moneth, 1659. Subscribed by more than fifteen thousand hands. Thus directed: to the Parliament of England, from many thousand of the free born people of this Common-Wealth.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by A.W. for Giles Calvert at the Black-spread-Eagle at the West end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 29".</note>
+                  <note>Reproduction of the original in the British Library..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168640:1" rendition="simple:additions"/>
+            <p>THE COPIE OF A PAPER Preſented to the PARLIAMENT: And read the <hi>27<hi rend="sup">th.</hi>
+               </hi> of the fourth Moneth, 1659.</p>
+            <p>
+               <hi>Subſcribed by more than fifteen thou<g ref="char:EOLhyphen"/>ſand hands.</hi>
+            </p>
+            <p>THUS DIRECTED: To the Parliament of ENGLAND, from many thou<g ref="char:EOLhyphen"/>ſand of the free born people of this Common-Wealth.</p>
+            <p>LONDON, <hi>Printed by</hi> A. W. <hi>for</hi> Giles Calvert at the Black-ſpread-Eagle <hi>at the Weſt end of</hi> Pauls, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168640:2"/>
+            <pb n="3" facs="tcp:168640:2"/>
+            <head>To the Parliament of <hi>England,</hi> from many thouſands of the free people of this Common-wealth.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving for ſeverall yeares, and eſpecially ſince the time of your interruption been exerciſed under many and great op<g ref="char:EOLhyphen"/>preſſions, becauſe for conſcience ſake vve cannot pay tithes; Some of us ſuffe<g ref="char:EOLhyphen"/>ring in the body, by moneths, and yeares Impriſon<g ref="char:EOLhyphen"/>ments, and ſome till death: others in our eſtates by char<g ref="char:EOLhyphen"/>geable ſuites, fynes, judgments and unreaſonable di<g ref="char:EOLhyphen"/>ſtreſſes, to the ruine of families, and been made the ſubjects of allmoſt all manner of cruelty and injuſtice; we have ſtood ſingle and in the integrity of our hearts been preſerved from worldly compliance; waiting for the good day; that the Lord would remove the hand of the oppreſſour.</p>
+            <pb n="4" facs="tcp:168640:3"/>
+            <p>And now finding freedome in the Lord, we come before you, whom God hath brought together again, and put the power into your hands, who formerly and of late have declared, to eaſe the heavy burthen, to re<g ref="char:EOLhyphen"/>move the yoke of injuſtice, and to ſet the oppreſſed free, and as members of the Nation to make our clayme to that juſt right which belonges to us as men and Chriſtians, who for the moſt part have been In<g ref="char:EOLhyphen"/>ſtruments vvith others for the purchaſe of our Libertys; that we may noe longer be made a prey by wicked men, and unjuſt Lawes, as we have been.</p>
+            <p>It cannot be forgotten what great thinges the Lord of late hath done in this Nation, how he hath ſet up and thrown down, ſhaken and overturned, and done won<g ref="char:EOLhyphen"/>derfull thinges, to the aſtoniſhment of our ſelves and all people round about us; and how the Lord in the midſt of all our war and confuſions ſtill cauſed a light to ſhine, which guided in a hidden path, and led to that which was not in the mind to forethink, nor in the heart to intend, and carryed far beyond that which was ſeen; yea, every year outwent other, and as great thinges vvere done, ſtill greater were expected, and the hearts of the upright were filled with joy, and a righteous King<g ref="char:EOLhyphen"/>dom was looked for to be neer.</p>
+            <p>But on a ſuddain, when God gave outward reſt from war and trouble, (which were true ſigures of another work which was to come after, and to be paſſed tho<g ref="char:EOLhyphen"/>rough before the Kingdom) how ſoon did a wrong Principle ariſe and ſtep into the throne, uſurping that dominion which the Lord was about to take to himſelf, which clouded the Nation with darkneſſe, and drew a vayle over the minds of moſt; And only to a remnant
+<pb n="5" facs="tcp:168640:3"/>did the Lord ſhew his Salvation, whom he obſcured under ſorrow and ſuffering, which now unto you are made manifeſt.</p>
+            <p>In this day of backſliding from God, how have men turned aſide, changed their minds, and even denyed their own profeſſed principles; and how are all men now wandring in the dark, and groping at Noon-day; Some crying out to the Magiſtrate, ſuppreſſe Errors, hereſies, blaſphemies; Others crying, take care of the Miniſtry, and keep up tithes, for if tithes be taken away, the Miniſtry will fall; And how is the Magiſtrate himſelf pleading for both, and ſaying that tithes are due by law, and belonges to him, and he may diſpoſe of them as he pleaſe, by which meanes the poor are op<g ref="char:EOLhyphen"/>preſſed who are labouring in the ground and tilling the earth for bread, the ſtaffe and ſtay of the Nation; A carnall worldly Miniſtry is thereby maintained, and the conſciences of many thouſands of good people op<g ref="char:EOLhyphen"/>preſſed.</p>
+            <p>Alas, alas, Is this our reſt and the end of our work, and is this the Reformation that muſt be the price of ſo much blood? To ſet the Magiſtrate in Chriſts throne to try and judge who are fit to be his Miniſters, and to ſend out and reſtraine whom he thinks fit, and to force a maintenance for them, even from thoſe that for conſcience ſake cannot hear them, nor own them; But for Chriſts ſake to whom the Kingdome belongs, are made to teſtify againſt both Magiſtrate and Miniſter as intruders into Chriſts place; Is this the liberty and the favour that tender conſciences muſt expect, who are ſeparated from the prophane ſocieties of the world, both to maintaine their own Miniſters,
+<pb n="6" facs="tcp:168640:4"/>and to be forced to maintaine others for the World, ſuch as they know Chriſt never ſent? Or is this kind<g ref="char:EOLhyphen"/>neſs to the World, who might be ſupplyed by the Churches of Chriſt, with ſuch as would freely preach the Goſpel without money or price.</p>
+            <p>And for your tithes, do we not know, that in the dark night of Apoſtacy they came in ſince the dayes of the Apoſtles, and were ſet up by the Pope, and firſt-fruits and tenths in imitation of the Jewiſh mainte<g ref="char:EOLhyphen"/>nance, and were they not upheld by popiſh lawes, and ordered in the Eccleſiaſticall Courts? and did ever any Magiſtrate in this Nation meddle or had any thing to doe about tithes till the Abbyes were diſſolved, that he ſould them to lay perſons (ſo called) who could not recover them by eccleſiaſticall law; And does not the firſt ſtatute law that ever was made for them in H. 8. tyme, ſay they were due to God and holy Church? and doe not your own lawes appoint them to be tryed in the eccleſiaſticall Courts? And becauſe the Pope impos'd ſo heavy a burthen, which your temporall lawes made in the darkneſſe of former ages, does con<g ref="char:EOLhyphen"/>tinue; Is it therefore juſt that they be perpetuated, and made an everlaſting bondage? How ſoon might this Nation be eſtabliſhed in peace by leaving every one free to have and hear and maintain their own Miniſters; which is a juſt freedome belonging to all, and we de<g ref="char:EOLhyphen"/>ſire not it ſhould be limited to any; and herein we doe to every man as we would be done unto, knowing that every one muſt give an accompt of himſelf unto God; And the Magiſtrate, (though now he be ſetting up Mi<g ref="char:EOLhyphen"/>niſters and forcing maintenance) will in that day find, that he hath cumbered himſelf with that which the
+<pb n="7" facs="tcp:168640:4"/>Lord never required from him, and will be rebuked for his zeale without knowledge by Chriſt Jeſus, to whom all power in heaven and earth is given, who needs not the Magiſtrates helpe to provide him Mini<g ref="char:EOLhyphen"/>ſters or Maintenance.</p>
+            <p>We therefore in the feeling and ſence of the weight of this burthen upon the Nation, and of the depth and ſtrength of deceipt that lyes therein: In humility as Chriſtians, and in faithfullneſſe, as becomes thoſe that wiſh well to you, and the great people under your care; doe exhort, that you would in wiſdome, and in the fear of God, with all convenient ſpeed declare a juſt free<g ref="char:EOLhyphen"/>dome in thinges pertaining unto God to all the people of this Common-wealth, that tithes, forced maintenan<g ref="char:EOLhyphen"/>ces and all other burthens on the conſcience may be removed, and Chriſts Kingdom delivered up to him<g ref="char:EOLhyphen"/>ſelf; And that you will govern the outward man with that law which is juſt and perfect according to the law of God, &amp; that in every mans conſcience, and then your rule will be eſtabliſhed in righteouſneſſe; But if you meddle as you did of old with that which concernes the conſcience, or as thoſe did more lately, vvhom God hath removed; be aſſured a controverſy will the Lord have with you, for he will overturn, till Chriſt Jeſus be ex<g ref="char:EOLhyphen"/>alted over the conſcience as King and Lord; And as we have ſtood ſingle unto God in a day of hard tryall; and borne the heat and the ſtormes and the tempeſts; We are willing, yet more to endure, and not only with joy to ſuffer our goods to be ſpoyled, and our bodyes to be impriſoned, but alſo our lives to lay down, if the Lord ſhall require it, till our teſtimony be finiſhed againſt all theſe abhominations, and for the Lord, and
+<pb n="8" facs="tcp:168640:5"/>for Chriſt Jeſus whom we witneſſe to be come in the fleſh, and in the ſpirit, who is to continue for ever the unchangeable Preiſthood, made and upheld, not by the power of an outward law or carnal Commandement, but by the power of an endleſſe life; and a law that can<g ref="char:EOLhyphen"/>not be altered; He it is that hath changed the firſt Preiſthood, and the law alſo by which it was made, and diſanulled the Commandement that gave tithes, and ſo hath taken away the firſt, that he might eſtabliſh the ſe<g ref="char:EOLhyphen"/>cond, (to wit) that which is in the ſpirit, which is the gift of God, vvhich is free vvithout money or price: And vve having received this Miniſtry, and being made partakers of his gift vvhich is free, as vve have freely received, freely vve declare, as the Miniſters of Chriſt ever did, vvithout being burthenſome to any; And vvoe unto them that make the goſpell chargeable, it being the free goſpell of peace, unto all Nations, not of diſcord and ſtrife, as the Miniſtry of the vvorld, their goſpell and maintenance is, as vvitneſſe all the Courts of this Nation.</p>
+            <p>
+               <hi>As you do herein, ſo will you be eſtabliſhed.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
